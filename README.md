@@ -1,3 +1,3 @@
 # Made for laboratory of Computer Graphics
-By Dimitrios Khristoforidi
+By Dimitrios Khristoforidi.
 Professor - Alikulov Alisher
